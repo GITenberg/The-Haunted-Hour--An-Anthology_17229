@@ -12,6 +12,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17229#The-Haunted-Hour--An-Anthology
 gutenberg_issued: '2005-12-05'
 gutenberg_type: Text
 identifiers:
